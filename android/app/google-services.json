@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80106127438",
+    "project_id": "flutter-mahine-learning",
+    "storage_bucket": "flutter-mahine-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80106127438:android:6d346c818e262b16b1c31f",
+        "android_client_info": {
+          "package_name": "xyz.funfury.flutter_machine_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80106127438-jqi4inv9rjv4ejpim2pberbhh1jn4oga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDetvHUOei73RfIP7jcqIrrWkpGtKWm5ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80106127438-jqi4inv9rjv4ejpim2pberbhh1jn4oga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
