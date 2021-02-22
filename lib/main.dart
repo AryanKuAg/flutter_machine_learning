@@ -1,10 +1,6 @@
-import 'dart:io';
-import 'dart:ui' as ui;
-
-import 'package:firebase_ml_vision/firebase_ml_vision.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_machine_learning/clock_view.dart';
 import 'package:flutter_machine_learning/faceDetectorApp.dart';
-import 'package:image_picker/image_picker.dart';
 
 void main() {
   runApp(MyApp());
@@ -20,7 +16,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: FaceDetectorApp(title: 'Flutter Demo Home Page'),
+      home: ClockView(),
     );
   }
 }
